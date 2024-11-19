@@ -1,0 +1,8 @@
+[package]
+name = "li-plot"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+poloto = "19.1.2"
+rustfft = "6.2.0"
